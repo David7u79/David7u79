@@ -22,10 +22,17 @@
 • Creación y ejecución de pruebas unitarias para asegurar la calidad del software. </h3>
 <h3 align="left">Tecnologías/Herramientas: • Typescript , GitHub, Spring Boot, microservicios, SCRUM.</h3>
 
-- 📄 Mi experiencia en APSI: [
-Enero 2021 - Enero 2022 
-Compañía: Apsi Puesto de trabajo: Desarrollador Full stack 
-Descripción. Durante mi tiempo como programador Java en Apsi, me enfoqué en la capaci-tación para la migración de aplicaciones y la implementación de buenas prácticas de desarrollo, consolidando habilidades en el uso de herramientas de control de versiones como Git y SVN. Mi participación incluyó un manejo detallado de ver-siones y ramas de proyectos, asegurando la consistencia y estabilidad en el códi-go, y facilitando el flujo de trabajo en equipo. También desarrollé aplicaciones y optimicé la gestión de datos utilizando lenguajes como PL/SQL y C#, logrando crear soluciones que respondían a las necesidades del cliente en el ámbito de la programación web. Mi experiencia en Apsi fue esencial para fortalecer mis habili-dades en la integración de diferentes tecnologías y herramientas de control, man-teniendo la eficiencia y calidad en los proyectos entregados. Responsabilidades: • Capacitación en migración de aplicaciones y transmisión de conocimientos técnicos. • Uso y administración de Git y SVN para control de versiones. • Desarrollo en PL/SQL, C#, Java, HTML y TypeScript. • Manejo y control de ramas en proyectos colaborativos. Tecnologías/Herramientas: • Java, PL/SQL, C#, Git, SVN, HTML, TypeScript, JUnit.]
+- <h3 align="left"> 📄 Mi experiencia en APSI:</h3>
+<h3 align="left">Enero 2021 - Enero 2022 </h3>
+<h3 align="left">Compañía: Apsi</h3>
+<h3 align="left">Puesto de trabajo: Desarrollador Full stack </h3>
+<h3 align="left">Descripción. Durante mi tiempo como programador Java en Apsi, me enfoqué en la capaci-tación para la migración de aplicaciones y la implementación de buenas prácticas de desarrollo, consolidando habilidades en el uso de herramientas de control de versiones como Git y SVN. Mi participación incluyó un manejo detallado de ver-siones y ramas de proyectos, asegurando la consistencia y estabilidad en el códi-go, y facilitando el flujo de trabajo en equipo. También desarrollé aplicaciones y optimicé la gestión de datos utilizando lenguajes como PL/SQL y C#, logrando crear soluciones que respondían a las necesidades del cliente en el ámbito de la programación web. Mi experiencia en Apsi fue esencial para fortalecer mis habilidades en la integración de diferentes tecnologías y herramientas de control, man-teniendo la eficiencia y calidad en los proyectos entregados.</h3>
+<h3 align="left">Responsabilidades:
+• Capacitación en migración de aplicaciones y transmisión de conocimientos técnicos.
+• Uso y administración de Git y SVN para control de versiones.
+• Desarrollo en PL/SQL, C#, Java, HTML y TypeScript.
+• Manejo y control de ramas en proyectos colaborativos.</h3>
+<h3 align="left">Tecnologías/Herramientas: • Java, PL/SQL, C#, Git, SVN, HTML, TypeScript, JUnit.</h3>
 
 - 💬 Preguntame sobre **Java, PL/SQL, .NET, JS y Python**
 
