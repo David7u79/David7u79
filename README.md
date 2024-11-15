@@ -6,10 +6,10 @@
 - 🌱 Actualmente estoy aprendiendo **Power BI**
 
 - 📄 Mi experiencia en Nubelity: [ 
-Enero 2024 - Presente
-Compañía: Nubelity LLC 
-Puesto de trabajo: Programador Jr. 
-Descripción. Como programador Jr. en Nubelity LLC, he participado en el desarrollo de solu-ciones backend para diversos clientes, centrándome en optimizar y mejorar los servicios de software bajo un enfoque de calidad y precisión. Este puesto me ha permitido consolidar habilidades en la implementación de microservicios y el uso avanzado de GitHub para la gestión de versiones, colaborando con equipos distri-buidos para alcanzar los objetivos del proyecto. Durante mi tiempo en Nubelity, he adquirido experiencia en proyectos de gran escala, en los cuales me he dedicado a mejorar y mantener funcionalidades críticas en los sistemas. La interacción con diferentes equipos de desarrollo y la continua implementación de mejoras en el código han sido clave para la eficiencia en los proyectos que manejo.]
+<h3 align="left"Enero 2024 - Presente</h3>
+<h3 align="left"Compañía: Nubelity LLC </h3>
+<h3 align="left"Puesto de trabajo: Programador Jr. 
+Descripción. Como programador Jr. en Nubelity LLC, he participado en el desarrollo de solu-ciones backend para diversos clientes, centrándome en optimizar y mejorar los servicios de software bajo un enfoque de calidad y precisión. Este puesto me ha permitido consolidar habilidades en la implementación de microservicios y el uso avanzado de GitHub para la gestión de versiones, colaborando con equipos distri-buidos para alcanzar los objetivos del proyecto. Durante mi tiempo en Nubelity, he adquirido experiencia en proyectos de gran escala, en los cuales me he dedicado a mejorar y mantener funcionalidades críticas en los sistemas. La interacción con diferentes equipos de desarrollo y la continua implementación de mejoras en el código han sido clave para la eficiencia en los proyectos que manejo.</h3>]
 
 - 📄 Mi experiencia en MTI Consultoria: [
 Enero 2022 – Diciembre 2023 
