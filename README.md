@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Power BI**
 
-- 📄 Mi experiencia en Nubelity: [ \n
+- 📄 Mi experiencia en Nubelity: [ 
 Enero 2024 - Presente
 Compañía: Nubelity LLC 
 Puesto de trabajo: Programador Jr. 
